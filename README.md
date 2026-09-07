@@ -25,18 +25,18 @@
 
 ## 🔍 Analysis Process
 
-빈집·인프라 데이터 수집
-        ↓
-빈집↔ 인프라 거리 계산
-        ↓
-인프라 만족도 점수 산출
-        ↓
-K-means Clustering
-        ↓
-AHP 기반 유형별 가중치 설정
-        ↓
-TOPSIS 기반 유형-Cluster 매칭
-        ↓
-유형별 Top 10 빈집 선정
-        ↓
-Tableau Dashboard 제작
+빈집·인프라 데이터 수집 
+        ↓  
+빈집↔ 인프라 거리 계산  
+        ↓  
+인프라 만족도 점수 산출  
+        ↓ 
+K-means Clustering  
+        ↓  
+AHP 기반 유형별 가중치 설정   
+        ↓  
+TOPSIS 기반 유형-Cluster 매칭  
+        ↓ 
+유형별 Top 10 빈집 선정 
+        ↓  
+Tableau Dashboard 제작  
