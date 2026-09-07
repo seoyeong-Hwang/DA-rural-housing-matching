@@ -1,8 +1,3 @@
-# BAF-25-1-Marketing
-
-## 주제
-귀농인 맞춤형 빈집 활용 주거지 매칭 서비스
-
 <div align="center">
 
 # 🏡 Rural Housing Matching Analysis
